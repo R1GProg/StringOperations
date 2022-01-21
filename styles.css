@@ -1,0 +1,16 @@
+#command {
+  font-size: 2em;
+  width: 500px;
+}
+
+#processBtn {
+  font-size: 1.5em;
+  width: 100px;
+}
+
+#output {
+  display: block;
+  width: 600px;
+  height: 500px;
+  font-size: 1.5em;
+}
